@@ -1,4 +1,5 @@
-## SENIOR TOP DEVELOPER
+## SENIOR TOP FULLSTACK EVELOPER
+<h1>FRONTEND</h1>
 
 <!--
 **tot-work/tot-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
