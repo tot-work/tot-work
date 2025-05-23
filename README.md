@@ -1,5 +1,7 @@
-## SENIOR TOP FULLSTACK EVELOPER
+## SENIOR TOP FULLSTACK DEVELOPER
 <h1>FRONTEND</h1>
+
+<span style="color:"red"">React</span>
 
 <!--
 **tot-work/tot-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
