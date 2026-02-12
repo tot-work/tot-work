@@ -1,12 +1,12 @@
 <p align="center">
-	<a href="https://github.com/tot-coder"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;AI%20Engineer;Blockchain%20Engineer;10%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45"></a>
+	<a href="https://github.com/tot-work"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;AI%20Engineer;Blockchain%20Engineer;10%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45"></a>
 </p>
 
 ## 👨‍💻 About Me
 
-[![GitHub Followers](https://img.shields.io/github/followers/tot-coder?label=Follow&style=social)](https://github.com/tot-coder)
-[![Years of Experience](https://img.shields.io/badge/10%2B%20Years-Expert-%23FF6B00)](https://github.com/tot-coder)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tot-coder.tot-coder)](https://github.com/tot-coder)
+[![GitHub Followers](https://img.shields.io/github/followers/tot-work?label=Follow&style=social)](https://github.com/tot-work)
+[![Years of Experience](https://img.shields.io/badge/10%2B%20Years-Expert-%23FF6B00)](https://github.com/tot-work)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tot-work.tot-work)](https://github.com/tot-work)
 
 I'm a seasoned **Senior Software Engineer** with **10+ years of experience** in building intelligent full-stack systems with **Web3** and **AI** integrations.
 
